@@ -40,6 +40,8 @@ Note : The following files have been removed to ensure API security :
 - android/app/google-services.json
 
 ## Folder Structure :
+- /assets/images/ : Contains all image assets for banner, navbar and icons other than service cards
+- /assets/fonts/ : Contains custom fonts
 - lib/models/ : Containing the model file service.dart
 - lib/screens/ : Contains the view layer : All the screens of the app
 - lib/services/ : Contains the service file firestore_service.dart that stores the firestore document details in a list
