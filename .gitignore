@@ -1,0 +1,5 @@
+/firebase.json
+/lib/firebase_options.dart
+/.idea/
+/.dart_tool/
+/build/
